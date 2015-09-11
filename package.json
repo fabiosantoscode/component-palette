@@ -14,7 +14,7 @@
   },
   "main": "index.es6",
   "files": [
-    "*.css"
+    "*.css",
     "*.es6"
   ],
   "eslintConfig": {
