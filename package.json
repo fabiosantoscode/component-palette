@@ -12,9 +12,10 @@
   "bugs": {
     "url": "https://github.com/economist-palette/component-palette/issues"
   },
-  "main": "index.js",
+  "main": "index.es6",
   "files": [
     "*.css"
+    "*.es6"
   ],
   "eslintConfig": {
     "extends": "strict/react"
