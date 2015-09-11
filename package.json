@@ -44,7 +44,6 @@
   },
   "scripts": {
     "lint": "eslint $npm_package_config_lint_opts .",
-    "prepublish": "npm run build && babel . -d . -x .es6",
     "serve": "node_modules/@economist/component-devserver/component-devserver ."
   },
   "dependencies": {
